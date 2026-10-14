@@ -7,8 +7,3 @@
         public decimal PricePerDay { get; set; }
     }
 }
-
-
-
-
-
