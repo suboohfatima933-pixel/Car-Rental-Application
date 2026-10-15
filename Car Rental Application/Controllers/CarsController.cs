@@ -43,4 +43,5 @@ namespace Car_Rental_Application.Controllers
             return View(bookedCars);
         }
     }
+
 }
